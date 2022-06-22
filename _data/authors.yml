@@ -1,0 +1,20 @@
+fmadeira:
+  username: fmadeira
+  name: Fabio Madeira
+  url_full: https://www.ebi.ac.uk/about/people/fabio-madeira
+  url: ebi.ac.uk/about/people/fabio-madeira
+  bio: Technical Team Project Lead
+  picture: assets/images/fmadeira.jpeg
+  facebook: False
+  twitter: biomadeira
+  cover: False
+nandana:
+  username: nandana
+  name: Nandana Madhusoodanan
+  url_full: https://www.ebi.ac.uk/about/people/nandana-madhusoodanan
+  url: ebi.ac.uk/about/people/nandana-madhusoodanan
+  bio: Documentation & Bioinformatics Support Officer
+  picture: assets/images/nandana.jpeg
+  facebook: False
+  twitter: False
+  cover: False

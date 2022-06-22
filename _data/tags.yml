@@ -1,0 +1,8 @@
+news:
+  name: news
+  description: General service updates and announcements.
+  cover: False
+releases:
+  name: releases
+  description: Updates on the latest bioinformatics tools and dataset releases.
+  cover: False
