@@ -12,6 +12,7 @@ jobs:
     permissions:
       contents: write
       pull-requests: write
+      pages: write
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
