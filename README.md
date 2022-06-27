@@ -46,10 +46,11 @@ $ gulp
 
 Now you can edit `/assets/css/` files, which will be compiled to `/assets/built/` automatically.
 
-## Thanks
+## Credits
 
 Many thanks to the Ghost team for all the design work. Also many thanks to all contributors of [Jasper2](https://github.com/jekyllt/jasper2).
 
+Unless noticed on the blog post directly, images used in our blog are owned by EMBL (Copyright (C) EMBL 2022).
 
 ## Copyright & License
 
