@@ -17,11 +17,11 @@ The latest dataset releases are available for sequence searching in our [Sequenc
 
 ### Key updates
 
-Over the past few months, we have released [Ensembl Genomes](https://ensemblgenomes.org/) version [54](https://www.ensembl.info/2022/07/12/ensembl-107-has-been-released/), and [WormBase Parasite](https://www.wormbase.org/) version [17](https://wbparasite.wordpress.com/2022/07/05/announcing-wormbase-parasite-release-17/).
+Over the past month, we have released [Ensembl Genomes](https://ensemblgenomes.org/) version [54](https://www.ensembl.info/2022/07/12/ensembl-107-has-been-released/), and [WormBase Parasite](https://www.wormbase.org/) version [17](https://wbparasite.wordpress.com/2022/07/05/announcing-wormbase-parasite-release-17/).
 
 ### Overview of the current biological databases
 
-The current dataset composition as of 21st June 2022 are as shown below. Dataset composition 
+The current dataset composition as of 26th July 2022 are as shown below. Dataset composition 
 can be browsed in the [JD Data Statistics](https://www.ebi.ac.uk/Tools/jdstats/) page.
 
 | Name                | Seq. Type  | No. Datasets | No. Entries   | Last Updated     |
