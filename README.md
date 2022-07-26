@@ -33,7 +33,19 @@ corresponding `name` to `tags` in the front matter of every post.
 
 ## Generating Markdown tables
 
-Thanks to [Tables Generator](https://www.tablesgenerator.com/markdown_tables) we can easily generate tables in Markdown.
+Thanks to [Tables Generator](https://www.tablesgenerator.com/markdown_tables) we can easily generate tables in Markdown. Simply follow these steps:
+
+1. Head to [JDStats](https://www.ebi.ac.uk/Tools/jdstats/), then click on the table headers to hide/show. The columns required are:
+`Name`, `Seq. Type`, `No. Datasets`, `No. Entries` and `Last Updated`. Also click in the `Show 10 rows` and then `All` to show all databases.
+
+2. Copy & paste the table contents into Excel or Google Spreadsheet. It should come up formatted as expected, 
+but make sure cells are not to narrow that the values appear as `########`.
+
+3. Head to [Tables Generator](https://www.tablesgenerator.com/markdown_tables) and click `File`, then `Paste table data` and copy & paste the copied content here. 
+Finally click the `Generate` button.
+
+4. Copy the generated Markdown table and add it to the post. Updated `nan` and empty cells to `1` and that's it!
+
 
 ## Compiling CSS styles
 
